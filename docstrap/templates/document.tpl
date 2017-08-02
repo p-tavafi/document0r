@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/v3.3.4/dist/css/bootstrap-rtl.min.css">
 	<link rel="stylesheet" href="docstrap/css/prettify.min.css">
 	<link rel="stylesheet" href="docstrap/css/docstrap.css">
+	<link rel="stylesheet" type="text/css" media="all" href="https://rawgit.com/WebsiteHouse/wh-css/master/classes.css">
 
 	<script type="text/javascript" src="docstrap/js/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="docstrap/js/bootstrap.min.js"></script>
