@@ -197,3 +197,9 @@ dd {
 }
 
 ol.linenums {padding-left:23px;}
+
+.screenshot {border: 3px solid #ccc;border-radius:15px;margin-top:2%;margin-bottom:2%;}
+
+code{font-family:'vazir', tahoma !important}
+/* ----------------------------- ADD TO WH-CSS ------------------------------*/
+.wh-ltr{direction:ltr !important;}
