@@ -1,5 +1,10 @@
 ﻿<?php
-
+header ( "Content-Type: text/html;charset=utf-8" );
+function file_get_contents_utf8($fn) {
+    $content = file_get_contents($fn);
+    return mb_convert_encoding($content, 'UTF-8',
+        mb_detect_encoding($content, 'UTF-8, ISO-8859-1', true));
+}
 /*
 Docstrap is a PHP parse documentation that generates a template 
 on top of Twitter Bootstrap, reading files written using Markdown language.

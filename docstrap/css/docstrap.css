@@ -203,3 +203,5 @@ ol.linenums {padding-left:23px;}
 code{font-family:'vazir', tahoma !important}
 /* ----------------------------- ADD TO WH-CSS ------------------------------*/
 .wh-ltr{direction:ltr !important;}
+.prettyprint.linenums{direction:ltr !important;}
+.ltr{direction:ltr !important;}
